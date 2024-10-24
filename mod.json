@@ -11,7 +11,7 @@
 	"version": "v1.0.0",
 	"developer": "Geming400",
 	"description": "Will show the comment history of every user",
-	"tags": ["cheats", "utility", "online"],
+	"tags": ["utility", "online"],
 	"settings": {
 		"enable": {
 			"name": "Enabled",
