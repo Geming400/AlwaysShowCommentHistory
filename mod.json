@@ -1,0 +1,28 @@
+{
+	"geode": "3.8.1",
+	"gd": {
+		"win": "2.206",
+		"android": "2.206",
+		"mac": "2.206",
+		"ios": "2.206"
+	},
+	"id": "geming400.always-show-comment-history",
+	"name": "Always Show Comment History",
+	"version": "v1.0.0",
+	"developer": "Geming400",
+	"description": "Will show the comment history of every user",
+	"tags": ["cheats", "utility", "online"],
+	"settings": {
+		"enable": {
+			"name": "Enabled",
+			"type": "bool",
+			"default": true
+		},
+		"change-icon": {
+			"name": "Change Icon",
+			"type": "bool",
+			"default": false,
+			"description": "Will change the opacity of the comment history button if the user has disabled it"
+		}
+	}
+}
