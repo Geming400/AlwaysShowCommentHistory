@@ -22,7 +22,8 @@
 			"name": "Change Icon",
 			"type": "bool",
 			"default": false,
-			"description": "Will change the opacity of the comment history button if the user has disabled it"
+			"description": "Will change the opacity of the comment history button if the user has disabled it",
+			"platforms": ["desktop"]
 		}
 	}
 }
