@@ -8,7 +8,7 @@
 	},
 	"id": "geming400.always-show-comment-history",
 	"name": "Always Show Comment History",
-	"version": "v1.0.0",
+	"version": "v1.0.1",
 	"developer": "Geming400",
 	"description": "Will show the comment history of every user",
 	"tags": ["utility", "online"],
