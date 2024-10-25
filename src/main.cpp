@@ -19,6 +19,7 @@ class $modify(MyProfilePage, ProfilePage)
 				auto commentHistoryButton = mainMenu->getChildByID("comment-history-button");
 				if (typeinfo_cast<CCMenuItemSpriteExtra*>(commentHistoryButton) == nullptr) {
 					log::error("typeinfo_cast = nullptr");
+					Notification::create("Couldn't change 'comment history button' opacity", NotificationIcon::Warning)->show();
 				} else {
 					typeinfo_cast<CCMenuItemSpriteExtra*>(commentHistoryButton)->setOpacity(127);
 				}
