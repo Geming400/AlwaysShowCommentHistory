@@ -1,5 +1,7 @@
 // stolen from https://github.com/TheSillyDoggo/GeodeMenu/blob/e21637af2559d287b50ed92e8f3b400bdcbfe4c5/src/Hacks/CommentHistory.cpp bc why not
 // just decided to make a standalone mod out of it
+// I also added some of my own features
+
 #include <Geode/Geode.hpp>
 #include <Geode/modify/ProfilePage.hpp>
 
