@@ -1,4 +1,4 @@
-# Always Show Commen tHistory
+# Always Show Comment History
 
 This is where she makes a mod.
 
