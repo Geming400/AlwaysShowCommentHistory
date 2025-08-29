@@ -1,3 +1,6 @@
+> [!NOTE]  
+> This no longer works on robtop's servers since this has been patched *(on 28/08/2025)* (or possibly any gdps if cvolton fixed that issue)
+
 # Always Show Comment History
 
 This is where she makes a mod.
